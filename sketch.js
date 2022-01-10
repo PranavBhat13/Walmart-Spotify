@@ -1,5 +1,5 @@
   function preload () {
-      picture = loadImage("Music.png")
+      picture = loadImage("Music1.png")
       naruto = loadSound("Hi.mp3")
       jalebi = loadSound ("Bye.mp3") 
       spiderman = loadSound ("Bro.mp3")      
